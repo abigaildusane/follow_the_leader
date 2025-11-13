@@ -1,4 +1,4 @@
-# Follow the Leader (Snap Program)
+# Follow the Leader (Snap! Program)
 
 This is an interactive animation created in **Snap!** at UC Berkeley.
 
